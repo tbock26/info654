@@ -1,0 +1,88 @@
+
+img {
+    max-width: 100%; height: auto;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color:#e9d4ac; 
+    color: #2B1B14;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+a:link{
+    color:#a52b36
+}
+a:visited{
+    color:#631920
+}
+a:hover{
+    color:#d2959a
+}
+h1{
+    font-weight: bold; font-size:36px; color:#362117;
+}
+h2{
+    font-weight:bold; font-size:24px; color: #5e8486;
+}
+h3{
+    font-weight:bolder; font-size: 18px; color:#6f9ea0;
+}
+.copyright{
+    font-style: italic;
+}
+.jobtitle{
+    font-style:italic;
+}
+.blogorigin{
+    font-style: italic; font-size: 85%; padding-top: 10px; padding-bottom: 15px;
+}
+.dessertname{
+    clear:both;
+}
+.dessertimage{
+    float:left; width: 325px;
+}
+#dessertimagewide{
+    float:left; width:425px;
+}
+#dessertcaption{
+    font-size: 60%; font-style: italic;
+}
+.dessertdescription{
+    padding-bottom: 20px;
+}
+#small1 {
+    font-size: 90%;
+}
+#small2{
+    font-size:70%;
+}
+#small3{
+    font-size:50%;
+}
+#small4{
+    font-size:40%;
+}
+#small5{
+    font-size:30%;
+}
+#small6{
+    font-size:15%;
+}
+.menu, #booktable{
+    border-style:double; border-radius:25px; border-width: 10px; border-color: #879c7d; background-color: #cbc385; padding:15px;
+}
+.tabletitle{
+text-align: center; font-weight: bold; font-size: 110%;
+}
+.indent{
+    text-indent: 50px;
+}
+.title{
+    font-style: italic;
+}
+#quote{
+    padding-left: 20%; padding-right:20%; text-align: justify;   
+}
+
