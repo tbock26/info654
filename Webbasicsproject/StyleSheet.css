@@ -82,7 +82,7 @@ text-align: center; font-weight: bold; font-size: 110%;
 .title{
     font-style: italic;
 }
-#quote{
+.quote{
     padding-left: 20%; padding-right:20%; text-align: justify;   
 }
 
