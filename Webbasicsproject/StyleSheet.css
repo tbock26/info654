@@ -22,7 +22,7 @@ a:hover{
 h1{
     font-weight: bold; font-size:36px; color:#362117;
 }
-h2{
+.dessertname, h2{
     font-weight:bold; font-size:24px; color: #5e8486;
 }
 h3{
